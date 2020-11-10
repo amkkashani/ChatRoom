@@ -1,0 +1,6 @@
+/Logs
+/obj
+*/.idea
+/.vs
+/Library
+*.sln
