@@ -18,7 +18,8 @@
       <Path>.idea</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
-      <Path>Temp</Path>
+      <Path>export2</Path>
+      <Path>export3</Path>
       <Path>goServer</Path>
       <Path>obj</Path>
     </explicitExcludes>
